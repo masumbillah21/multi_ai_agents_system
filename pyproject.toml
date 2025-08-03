@@ -1,0 +1,17 @@
+[project]
+name = "ai-agents-system"
+version = "0.1.0"
+description = "Modular AI Agent System with Multi-Agent Architecture and FastAPI using Groq + LangChain"
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "fastapi>=0.116.1",
+    "uvicorn>=0.35.0",
+    "langchain>=0.3.27",
+    "langchain-groq>=0.3.6",
+    "python-dotenv>=1.1.1",
+]
+
+[tool.uv]
+# Optional: specify any uv tool configuration here
