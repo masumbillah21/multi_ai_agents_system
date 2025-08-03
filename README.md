@@ -39,8 +39,8 @@ ai_agents_system/
 
 **1️⃣ Clone the repository:**
 ```bash
-git clone https://github.com/your-username/ai_agents_system.git
-cd ai_agents_system
+git clone https://github.com/masumbillah21/multi_ai_agents_system.git
+cd multi_ai_agents_system
 ```
 
 **2️⃣ Install dependencies:**
